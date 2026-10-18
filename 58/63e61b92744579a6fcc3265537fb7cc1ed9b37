@@ -1,0 +1,19 @@
+privacy.html
+  s_419a91ffb99b74::t_d0b576bc74fb20 62,65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5863e61b92744579a6fcc3265537fb7cc1ed9b37",
+  "prompts": {},
+  "sessions": {
+    "s_419a91ffb99b74": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "42eb92e7-9b01-4888-a4d5-562ee37efee4",
+        "model": "unknown"
+      },
+      "human_author": "Thinh <thinhle@everfit.io>"
+    }
+  }
+}
