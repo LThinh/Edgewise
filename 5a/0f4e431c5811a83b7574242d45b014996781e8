@@ -1,0 +1,27 @@
+app-ads.txt
+  s_419a91ffb99b74::t_1897512ff64f65 1
+index.html
+  s_419a91ffb99b74::t_c9306956069f5f 1-48
+privacy.html
+  s_419a91ffb99b74::t_6c315822574f5c 1-95
+style.css
+  s_419a91ffb99b74::t_ef1891b239720a 1-95
+support.html
+  s_419a91ffb99b74::t_bda861dc925329 1-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5a0f4e431c5811a83b7574242d45b014996781e8",
+  "prompts": {},
+  "sessions": {
+    "s_419a91ffb99b74": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "42eb92e7-9b01-4888-a4d5-562ee37efee4",
+        "model": "unknown"
+      },
+      "human_author": "Thinh <thinhle@everfit.io>"
+    }
+  }
+}
